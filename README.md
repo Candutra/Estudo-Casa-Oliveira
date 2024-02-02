@@ -54,8 +54,8 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados.
 ### Normalização feita no Excel.
 
 #### Foram realizadas 3 normalizações
-["Primeira parte"](normalizacao-excel1.png)
-["Segunda parte"](normalizacao-excel2.png)
+!["Primeira parte"](normalizacao-excel1.png)
+!["Segunda parte"](normalizacao-excel2.png)
 
 
 ### Codigo SQL para modelo fisico do banco de dados 
